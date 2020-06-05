@@ -1,1 +1,1 @@
-console.log('oti kai na kaneis m thymizeis kordelio');
+console.log('Typescript is good.');
